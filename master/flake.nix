@@ -8,8 +8,8 @@
   inputs.flakeNimbleLib.inputs.nixpkgs.follows = "nixpkgs";
   
   inputs.src-geohash-master.flake = false;
+  inputs.src-geohash-master.ref   = "refs/heads/master";
   inputs.src-geohash-master.owner = "twist-vector";
-  inputs.src-geohash-master.ref   = "master";
   inputs.src-geohash-master.repo  = "nim-geohash.git";
   inputs.src-geohash-master.type  = "github";
   
