@@ -11,7 +11,6 @@
   inputs.src-geohash-master.ref   = "refs/heads/master";
   inputs.src-geohash-master.owner = "twist-vector";
   inputs.src-geohash-master.repo  = "nim-geohash";
-  inputs.src-geohash-master.dir   = "";
   inputs.src-geohash-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
