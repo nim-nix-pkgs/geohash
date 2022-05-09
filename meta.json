@@ -7,7 +7,7 @@
   "license": "Apache License 2.0",
   "web": "https://github.com/twist-vector/nim-geohash",
   "refs": [
-    "fatal: unable to access 'https://github.com/twist-vector/nim-geohash.git/': Could not resolve host: github.com",
+    "fatal: unable to access 'https://github.com/twist-vector/nim-geohash.git/': Failed to connect to github.com port 443 after 131205 ms: Network is unreachable",
     ""
   ],
   "heads": []
