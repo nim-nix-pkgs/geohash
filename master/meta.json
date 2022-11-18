@@ -1,8 +1,0 @@
-{
-  "description": "Nim implementation of the geohash latitude/longitude geocode system",
-  "license": "Apache License 2.0",
-  "name": "geohash",
-  "ref": "refs/heads/master",
-  "url": "https://github.com/twist-vector/nim-geohash.git",
-  "version": "master"
-}
